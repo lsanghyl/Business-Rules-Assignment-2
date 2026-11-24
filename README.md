@@ -198,7 +198,7 @@ ChatGPT를 활용하여 과제 요구사항 분석, 업무 규칙 설계,
 
 ## 13. 보고서 및 참고 자료
 
-- 제출 보고서: docs/report.pdf (추가 예정)
+- 제출 보고서: - [제출 보고서 PDF](docs/report.pdf)
 - [API 계약](docs/API.md)
 - [Node.js SQLite](https://nodejs.org/docs/latest-v24.x/api/sqlite.html)
 - [Express API](https://expressjs.com/en/5x/api/)
