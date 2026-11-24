@@ -12,3 +12,5 @@ coverage/
 *.sqlite-journal
 *.pem
 *.keydocs/screenshots.zip
+
+/docs/screenshots.zip
