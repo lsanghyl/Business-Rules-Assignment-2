@@ -1,0 +1,14 @@
+node_modules/
+data/*
+!data/.gitkeep
+.env
+.DS_Store
+*.log
+coverage/
+.env.*
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal
+*.pem
+*.keydocs/screenshots.zip
